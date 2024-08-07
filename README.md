@@ -14,5 +14,5 @@
 - `git init`
 - `git add -A`
 - `git commit -m "Week 4 Tutorial setup"`
-- `git remote add origin [your-repo-url]`
+- `git remote add origin 
 - `git push -u origin main`
