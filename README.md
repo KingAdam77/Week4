@@ -6,13 +6,13 @@
 - Git
 
 ## Angular CLI Commands
-- `ng new week4tut`
-- `ng generate component login`
-- `ng generate component account`
+- ng new week4tut
+- ng generate component login
+- ng generate component account
 
 ## Git Commands
-- `git init`
-- `git add -A`
-- `git commit -m "Week 4 Tutorial setup"`
-- `git remote add origin 
-- `git push -u origin main`
+- git init
+- git add -A
+- git commit -m "Week 4 Tutorial setup"
+- git remote add origin 
+- git push -u origin main
